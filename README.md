@@ -15,6 +15,7 @@
 ### 📄 学术发表
 
 - [The Trade-off Between Robustness and Reliability in Chinese Legal Large Language Models: An Empirical Study](https://www.doi.org/10.1007/s10506-026-09510-z) — *Artificial Intelligence and Law*（Springer，法律人工智能领域 1区 Top 刊），2026，重回法律一区后首篇文章，**通讯作者**
+- [EC-MIIP：基于高效微调的知识产权小参数大语言模型](https://www.doi.org/10.11896/jsjkx.250600023) — *计算机科学*，2026，53(5): 299-308，**第一作者**
 
 ### 🏆 荣誉奖项
 
