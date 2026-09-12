@@ -19,10 +19,7 @@
 ![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
-### 📊 GitHub Stats
-
-![KK's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkelly-offical&show_icons=true&theme=tokyonight&hide_title=true&count_private=true)
 
 ---
 
-*"用 AI 写代码的人，也在写 AI 写代码的工具。"*
+*"迭代好每一个coding agent"*
