@@ -10,7 +10,7 @@
 
 ### 💼 工作经历
 
-- 2026.8 至今 · **Moonshot AI** — Kimi Code 产品体验运营 / Kimi Code 海外社群运营
+- 2026.8 至今 · **Moonshot AI** — Kimi Code 产品体验运营 / Kimi Code 海外社群运营策略制定
 
 ### 🏆 荣誉奖项
 
