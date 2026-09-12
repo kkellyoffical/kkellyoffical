@@ -10,7 +10,11 @@
 
 ### 💼 工作经历
 
-- 2026.8 至今 · **Moonshot AI** — Kimi Code 产品体验运营 / Kimi Code 海外社群运营
+- 2026.8 至今 · **Moonshot AI Product Team** — Kimi Code C端产运 / Kimi Code 海外社群运营策略制定者
+
+### 📄 学术发表
+
+- [The Trade-off Between Robustness and Reliability in Chinese Legal Large Language Models: An Empirical Study](https://www.doi.org/10.1007/s10506-026-09510-z) — *Artificial Intelligence and Law*（Springer，法学领域 Top 刊），2026
 
 ### 🏆 荣誉奖项
 
