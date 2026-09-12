@@ -14,7 +14,7 @@
 
 ### 📄 学术发表
 
-- [The Trade-off Between Robustness and Reliability in Chinese Legal Large Language Models: An Empirical Study](https://www.doi.org/10.1007/s10506-026-09510-z) — *Artificial Intelligence and Law*（Springer，法学领域 Top 刊），2026
+- [The Trade-off Between Robustness and Reliability in Chinese Legal Large Language Models: An Empirical Study](https://www.doi.org/10.1007/s10506-026-09510-z) — *Artificial Intelligence and Law*（Springer，法律人工智能领域 1区 Top 刊），2026重回法律一区后首篇文章
 
 ### 🏆 荣誉奖项
 
