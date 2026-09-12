@@ -10,7 +10,7 @@
 
 ### 💼 工作经历
 
-- 2026.8 至今 · **Moonshot AI** — Kimi Code 产品体验运营 / Kimi Code 海外社群运营策略制定
+- 2026.8 至今 · **Moonshot AI** — Kimi Code 产品体验运营 / Kimi Code 海外社群运营
 
 ### 🏆 荣誉奖项
 
@@ -31,10 +31,11 @@
 
 ### 🛠️ 技术栈
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
 ---
 
